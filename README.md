@@ -1,10 +1,12 @@
 # hello-world
-github tutorial
-Hi there, this is my first stab at github!
-Wow! It has been a while since I started this! Sooo lazy! lol
-I promise, I will do better.
 
-SAMPLE README TEMPLATE
+:angry:I have taken interest in learning Git and GitHub and this repository shall document my progress starting April 28, 2020. This is a good day as any, as I have been putting off this project for a long time. One factor that enable me to do this now is the ongoing Enhanced Community Quarantine (lockdown) due to Covid-19. As I write this down, I was stranded in the province of Aklan for more than a month now and since there is nothing else to do, this would be the best time to start this.
+
+## Tasks
+
+- [x] install command line tools: *__xcode-select --install__*
+- [ ] install bundler and jekyll: *__gem install --user-install bundler jekyll__*
+
 
 Project Title
 One Paragraph of project description goes here
@@ -12,7 +14,7 @@ One Paragraph of project description goes here
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Prerequisites
+Prerequisites:
 What things you need to install the software and how to install them
 
 Give examples
